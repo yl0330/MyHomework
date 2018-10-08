@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Homework</string>
+    <string name="todo">TODO</string>
+    <string name="hello">you are so cute</string>
+    <string name="input_name">Your name</string>
+    <string name="teams_name1">Team A</string>
+    <string name="teams_name2">Team B</string>
+    <string name="teams_score1">0</string>
+    <string name="teams_score2">0</string>
+    <string name="add1">FREE THROW</string>
+    <string name="add2">+2 POINTS</string>
+    <string name="add3">+3 POINTS</string>
+    <string name="reset">RESET</string>
+    <string name="input_button">send</string>
+    <string name="title">CourtCounter</string>
+</resources>
